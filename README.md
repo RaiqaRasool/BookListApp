@@ -8,3 +8,5 @@ This is the BookListApp project done by me to practice:
 In this you can list down the books you have yet to read and after you are done reading them you can remove them from the list. 
 It is using only local storage for keeping the record no backend is involved at all. 
 It is a simple project but helped me a lot to understand the basic concepts of local Storage.
+
+You can try it at url: https://raiqarasool.github.io/BookListApp/
